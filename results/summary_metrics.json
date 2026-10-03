@@ -1,0 +1,17 @@
+{
+  "dice_kidney": 0.9420327544212341,
+  "iou_kidney": 0.8904232978820801,
+  "dice_tumor": 0.8713611364364624,
+  "iou_tumor": 0.7720463275909424,
+  "dice_cyst": 0.0,
+  "iou_cyst": 0.0,
+  "mean_dice": 0.604464590549469,
+  "mean_iou": 0.5541565418243408,
+  "hd95_kidney": 49.699119567871094,
+  "hd95_tumor": 2.0,
+  "hd95_cyst": NaN,
+  "mean_hd95": 25.849559783935547,
+  "kits_composite_kidney_dice": 0.8640900254249573,
+  "kits_mass_dice": NaN,
+  "kits_tumor_dice": NaN
+}

@@ -1,0 +1,361 @@
+{
+  "total_cases_found": 10,
+  "valid_cases": 10,
+  "corrupt_or_missing_cases": 0,
+  "cases_with_kidney": 10,
+  "cases_with_tumor": 10,
+  "cases_with_cyst": 10,
+  "mean_shape": "[64, 128, 128]",
+  "audit_records": [
+    {
+      "case_id": "case_00000",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -330.2705078125,
+      "max_hu": 294.16766357421875,
+      "mean_hu": -92.16578499651004,
+      "std_hu": 60.39866090187566,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00001",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -336.7004089355469,
+      "max_hu": 282.22607421875,
+      "mean_hu": -92.17047388073424,
+      "std_hu": 60.378181899250116,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00002",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -350.31561279296875,
+      "max_hu": 336.27008056640625,
+      "mean_hu": -92.16593958720175,
+      "std_hu": 60.41312834040733,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00003",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -331.63641357421875,
+      "max_hu": 287.06231689453125,
+      "mean_hu": -92.15546577882549,
+      "std_hu": 60.44839917072446,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00004",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -340.46783447265625,
+      "max_hu": 270.0890808105469,
+      "mean_hu": -92.18040187353027,
+      "std_hu": 60.435282279799004,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00005",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -340.1327819824219,
+      "max_hu": 284.49163818359375,
+      "mean_hu": -92.13492231276071,
+      "std_hu": 60.470868137606246,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00006",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -338.33001708984375,
+      "max_hu": 278.7200622558594,
+      "mean_hu": -92.27031015764419,
+      "std_hu": 60.429858941625625,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00007",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -334.77484130859375,
+      "max_hu": 292.132080078125,
+      "mean_hu": -92.12770956713858,
+      "std_hu": 60.41827134459753,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00008",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -353.24310302734375,
+      "max_hu": 286.01434326171875,
+      "mean_hu": -92.14600157668795,
+      "std_hu": 60.47245313346376,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    },
+    {
+      "case_id": "case_00009",
+      "imaging_exists": true,
+      "seg_exists": true,
+      "seg_filename": "aggregated_MAJ_seg.nii.gz",
+      "corrupt": false,
+      "error_message": "",
+      "shape": [
+        64,
+        128,
+        128
+      ],
+      "spacing": [
+        1.5,
+        1.5,
+        2.0
+      ],
+      "dtype": "float64",
+      "min_hu": -334.4584045410156,
+      "max_hu": 298.3971862792969,
+      "mean_hu": -92.19401454814671,
+      "std_hu": 60.44615214574146,
+      "label_values": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "kidney_voxels": 49400,
+      "tumor_voxels": 3600,
+      "cyst_voxels": 1000,
+      "kidney_present": true,
+      "tumor_present": true,
+      "cyst_present": true
+    }
+  ]
+}
